@@ -1,0 +1,170 @@
+[
+    {
+        "en": {
+            "text": "\"Strive not for success, but for the values ​​it gives.\"",
+            "author": "Albert Einstein"
+        },
+        "be": {
+            "text": "\"Імкнецеся не да поспеху, а да каштоўнасцяў, якія ён дае.\"",
+            "author": "Альберт Эйнштэйн"
+        },
+        "ru": {
+            "text": "\"Стремитесь не к успеху, а к ценностям, которые он дает.\"",
+            "author": "Альберт Эйнштейн"
+        }
+    },
+    {
+        "en": {
+            "text": "\"The two most important days in your life: the day you were born and the day you realized why.\"",
+            "author": "Mark Twain"
+        },
+        "be": {
+            "text": "\"Два самыя важныя дні ў тваім жыцці: дзень, калі ты з'явіўся на свет, і дзень, калі зразумеў, навошта.\"",
+            "author": "Марк Твен"
+        },
+        "ru": {
+            "text": "\"Два самых важных дня в твоей жизни: день, когда ты появился на свет, и день, когда понял, зачем.\"",
+            "author": "Марк Твен"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"The person you are meant to be is only the person you decide to become.\"",
+            "author": "Ralph Waldo Emerson"
+        },
+        "be": {
+            "text": "\"Чалавек, якім вам наканавана стаць - гэта толькі той чалавек, якім вы самі вырашыце стаць.\"",
+            "author": "Ральф Уолда Эмерсан"
+        },
+        "ru": {
+            "text": "\"Человек, которым вам суждено стать – это только тот человек, которым вы сами решите стать.\"",
+            "author": "Ральф Уолдо Эмерсон"
+        }
+    },
+    {
+        "en": {
+            "text": "\"Fall down seven times and get up eight times.\"",
+            "author": "Japanese proverb"
+        },
+        "be": {
+            "text": "\"Упадзі сем разоў і восем разоў падыміся.\"",
+            "author": "Японская прымаўка"
+        },
+        "ru": {
+            "text": "\"Упади семь раз и восемь раз поднимись.\"",
+            "author": "Японская поговорка"
+        }
+    },
+    {
+        "en": {
+            "text": "\"If there is no wind, take the oars.\"",
+            "author": "Latin proverb"
+        },
+        "be": {
+            "text": "\"Калі няма ветру, бярыцеся за вёслы.\"",
+            "author": "Лацінская прымаўка"
+        },
+        "ru": {
+            "text": "\"Если нет ветра, беритесь за вёсла.\"",
+            "author": "Латинская поговорка"
+        }
+    },
+    {
+        "en": {
+            "text": "\"Always rely on the idea that your own decision to succeed is more important than anything else.\"",
+            "author": "Abraham Lincoln"
+        },
+        "be": {
+            "text": "\"Заўсёды абапірайцеся на думку аб тым, што ваша ўласнае рашэнне дабіцца поспеху нашмат важней за ўсё іншае.\"",
+            "author": "Абрагам Лінкальн"
+        },
+        "ru": {
+            "text": "\"Всегда опирайтесь на мысль о том, что ваше собственное решение добиться успеха намного важнее всего другого.\"",
+            "author": "Авраам Линкольн"
+        }
+    },
+    {
+        "en": {
+            "text": "\"Success is the ability to go from defeat to defeat without losing optimism.\"",
+            "author": "Winston Churchill"
+        },
+        "be": {
+            "text": "\"Поспех - гэта здольнасць ісці ад паразы да паразы, не губляючы аптымізму.\"",
+            "author": "Уінстан Чэрчыль"
+        },
+        "ru": {
+            "text": "\"Успех — это способность идти от поражения к поражению, не теряя оптимизма.\"",
+            "author": "Уинстон Черчилль"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"Failure is just an opportunity to start again, but more wisely.\"",
+            "author": "Henry Ford"
+        },
+        "be": {
+            "text": "\"Няўдача - гэта проста магчымасць пачаць зноў, але ўжо больш мудра.\"",
+            "author": "Генры Форд"
+        },
+        "ru": {
+            "text": "\"Неудача – это просто возможность начать снова, но уже более мудро.\"",
+            "author": "Генри Форд"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"Never think that you already know everything. And no matter how highly you are rated, always have the courage to say to yourself: 'I am an ignoramus'.\"",
+            "author": "Ivan Pavlov"
+        },
+        "be": {
+            "text": "\"Ніколі не думайце, што вы ўжо ўсё ведаеце. І як бы высока не ацэньвалі вас, заўсёды майце мужнасць сказаць сабе: 'Я невука'.\"",
+            "author": "Іван Паўлаў"
+        },
+        "ru": {
+            "text": "\"Никогда не думайте, что вы уже все знаете. И как бы высоко не оценивали вас, всегда имейте мужество сказать себе: 'Я невежда'.\"",
+            "author": "Иван Павлов"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"Remember that not achieving success is sometimes also a great success.\"",
+            "author": "Dalai Lama"
+        },
+        "be": {
+            "text": "\"Запомніце, што не дасягнуць поспеху - часам таксама вялікі поспех.\"",
+            "author": "Далай Лама"
+        },
+        "ru": {
+            "text": "\"Запомните, что не достичь успеха – иногда тоже большая удача.\"",
+            "author": "Далай Лама"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"The only way to do something very well is to love what you do.\"",
+            "author": "Steve Jobs"
+        },
+        "be": {
+            "text": "\"Адзіны спосаб зрабіць нешта вельмі добра - кахаць тое, што ты робіш.\"",
+            "author": "Стыў Джобс"
+        },
+        "ru": {
+            "text": "\"Единственный способ сделать что-то очень хорошо – любить то, что ты делаешь.\"",
+            "author": "Стив Джобс"
+        } 
+    },
+    {
+        "en": {
+            "text": "\"Before climbing the ladder of success, make sure it is leaning against the wall of the building you need.\"",
+            "author": "Stephen Covey"
+        },
+        "be": {
+            "text": "\"Перад тым як караскацца на ўсходы поспеху, пераканайцеся, што яна прыхінута да сцяны таго будынка, што вам трэба.\"",
+            "author": "Стывен Кові"
+        },
+        "ru": {
+            "text": "\"Перед тем как карабкаться на лестницу успеха, убедитесь, что она прислонена к стене того здания, что вам нужно.\"",
+            "author": "Стивен Кови"
+        }  
+    }
+]
