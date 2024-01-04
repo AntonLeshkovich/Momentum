@@ -21,6 +21,7 @@ body {
   background-size: cover;
   background-blend-mode: multiply;
   transition: background-image 1s ease-in-out;
+  overflow: hidden;
 }
 
 .header {
@@ -650,6 +651,7 @@ body {
   border: solid 1px rgba(255, 255, 255, 0.6);
   outline:none;
   transition: all .3s;
+  cursor: pointer;
 }
 .addBtn svg path {
   transition: all .3s;

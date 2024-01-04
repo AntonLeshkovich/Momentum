@@ -5,9 +5,9 @@ const playList = [
         duration: '04:04',
     },
     {
-        title: 'Pitbull feat. Kesha - Timber',
-        src: './assets/sounds/Pitbull_feat_Kesha-Timber.mp3',
-        duration: '03:24',
+        title: 'Robin Schulz ft David Guetta - On Repeat',
+        src: './assets/sounds/Robin-Schulz-ft-David-Guetta-On-repeat.mp3',
+        duration: '03:10',
     },
     {
         title: 'Red Hot Chili Peppers - Otherside',
@@ -15,9 +15,9 @@ const playList = [
         duration: '04:18',
     },
     {
-        title: 'Nicole en Hugo - Goeiemorgen morgen ',
-        src: './assets/sounds/Nicole_en_Hugo-Goeiemorgen_morgen.mp3',
-        duration: '02:49',
+        title: 'Blink-182 - One More Time',
+        src: './assets/sounds/Blink-182-One_More_Time.mp3',
+        duration: '03:28',
     }
 ]
 
